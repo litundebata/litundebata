@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **JS,React,Redux**
 
-- 📫 How to reach me **https://www.linkedin.com/in/abhilash-kumar-debata-220069162?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BD7wLLV0hQ6qXCdOWN2m93Q%3D%3D**
+- 📫 How to reach me **(https://www.linkedin.com/in/abhilash-kumar-debata-220069162/)**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ooJtb7eCVieR5_wk691JOrvEmUMjzC9L/view?usp=share_link](https://drive.google.com/file/d/1ooJtb7eCVieR5_wk691JOrvEmUMjzC9L/view?usp=share_link)
 
